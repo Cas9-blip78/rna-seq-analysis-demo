@@ -15,7 +15,7 @@ mamba install -n rnaseq -y fastqc
 mamba install -n rnaseq -y fastp
 
 ##安装数据对比软件
-mamba install -n rnaseq -y star=2.6.1d
+mamba install -n rnaseq -y star=2.7.1a
 
 ##安装 read count软件
 mamba install -n rnaseq -y subread
